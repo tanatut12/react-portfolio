@@ -7,17 +7,21 @@ export const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Hi, I'm Ada</h1>
+        <h1 className={styles.title}>Hi, I'm Aoun</h1>
         <p className={styles.description}>
-          I'm a full-stack developer with 5 years of experience using React and
-          NodeJS. Reach out if you'd like to learn more!
+          I graduated from Generation's Junior Software Developer Bootcamp and
+          am currently seeking a position as a full-stack developer. My
+          experience includes project management in the construction of pop-up
+          stores, which has equipped me with valuable skills in teamwork and
+          communication. I believe these skills are transferable and will serve
+          me well in a junior developer role.
         </p>
-        <a href="mailto:myemail@email.com" className={styles.contactBtn}>
+        <a href="mailto:tanatut12@gmail.com" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>
       <img
-        src={getImageUrl("hero/heroImage.png")}
+        src={getImageUrl("hero/heroimg.png")}
         alt="Hero image of me"
         className={styles.heroImg}
       />
