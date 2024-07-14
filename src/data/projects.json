@@ -1,7 +1,7 @@
 [
   {
     "title": "Puey Puey eCommerce",
-    "imageSrc": "projects/PueyPuey.png",
+    "imageSrc": "projects/webpage.png",
     "description": "This project is designed to learn how to build an eCommerce web app.",
     "skills": ["React", "Express", "Node", "MongoDB"],
     "demo": "https://eotd-front-end-ps1z.vercel.app/",
@@ -9,7 +9,7 @@
   },
   {
     "title": "Dashboard for Puey Puey eCommerce",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/dashboard.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["React", "Express", "Node", "Sass"],
     "demo": "https://eotd-admin.vercel.app/",
