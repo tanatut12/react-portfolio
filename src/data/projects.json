@@ -3,24 +3,39 @@
     "title": "Puey Puey eCommerce",
     "imageSrc": "projects/webpage.png",
     "description": "This project is designed to learn how to build an eCommerce web app.",
-    "skills": ["React", "Express", "Node", "MongoDB"],
+    "skills": [
+      "React",
+      "Express",
+      "Node",
+      "MongoDB"
+    ],
     "demo": "https://eotd-front-end-ps1z.vercel.app/",
     "source": "https://github.com/JSD7-EOTD/Eotd-front-end"
   },
   {
-    "title": "Dashboard for Puey Puey eCommerce",
-    "imageSrc": "projects/dashboard.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://eotd-admin.vercel.app/",
-    "source": "https://github.com/JSD7-EOTD/Eotd-Admin"
+    "title": "Frontend for Shop eCommerce",
+    "imageSrc": "projects/shop.png",
+    "description": "This project is a frontend for Shop eCommerce",
+    "skills": [
+      "Next.js",
+      "Tailwind CSS",
+      "Zustand",
+      "Ant Design"
+    ],
+    "demo": "https://shop-front-kohl.vercel.app/",
+    "source": "https://github.com/tanatut12/shop-front"
   },
   {
-    "title": "Express Server for Puey Puey eCommerce",
+    "title": "Nest.js Server for Shop eCommerce",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
+    "description": "This project is a backend for Shop eCommerce",
+    "skills": [
+      "Nest.js",
+      "TypeScript",
+      "PostgreSQL",
+      "TypeORM"
+    ],
+    "demo": "https://shop-api.com/docs",
     "source": "https://github.com/tanatut12/structure_puey_puey"
   }
 ]

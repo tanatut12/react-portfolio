@@ -22,5 +22,37 @@
   {
     "title": "Figma",
     "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Nest.js",
+    "imageSrc": "https://skillicons.dev/icons?i=nestjs"
+  },
+  {
+    "title": "TypeScript",
+    "imageSrc": "https://skillicons.dev/icons?i=typescript"
+  },
+  {
+    "title": "PostgreSQL",
+    "imageSrc": "https://skillicons.dev/icons?i=postgresql"
+  },
+  {
+    "title": "TypeORM",
+    "imageSrc": "https://api.iconify.design/simple-icons:typeorm.svg"
+  },
+  {
+    "title": "Next.js",
+    "imageSrc": "https://skillicons.dev/icons?i=nextjs"
+  },
+  {
+    "title": "Tailwind",
+    "imageSrc": "https://skillicons.dev/icons?i=tailwindcss"
+  },
+  {
+    "title": "Zustand",
+    "imageSrc": "https://hexmos.com/freedevtools/svg_icons/zustand/zustand-original.svg"
+  },
+  {
+    "title": "Ant Design",
+    "imageSrc": "https://api.iconify.design/simple-icons:antdesign.svg"
   }
 ]

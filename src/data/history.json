@@ -1,18 +1,25 @@
 [
   {
+    "role": "FullStack Developer",
+    "organisation": "Pi r Square Co., Ltd.",
+    "startDate": "August, 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Developed a web application for a client",
+      "cms for the web application using React.js, Next.js and Tailwind CSS",
+      "Build an eCommerce Project using Nest.js, TypeScript and PostgreSQL"
+    ],
+    "imageSrc": "history/pirlogo.png"
+  },
+  {
     "role": "Generation Junior Software Developer",
     "organisation": "Generation Thailand",
     "startDate": "April, 2024",
     "endDate": "Present",
-    "experiences": ["Worked on FullStack-Developer", "Build an eCommerce Project"],
+    "experiences": [
+      "Worked on FullStack-Developer",
+      "Build an eCommerce Project"
+    ],
     "imageSrc": "history/genLogo.png"
-  },
-  {
-    "role": "Co-ordinator",
-    "organisation": "Kingmens C.M.T.I",
-    "startDate": "Febuary, 2021",
-    "endDate": "March, 2021",
-    "experiences": ["Chanel Pop Up Store", "BMW Motor Show"],
-    "imageSrc": "history/Kingsmen.png"
   }
 ]
